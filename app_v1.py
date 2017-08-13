@@ -5,17 +5,6 @@
 # http://www.enterstry.de/blog/elastic-event-components-konzept
 # ============================================================================
 
-# ============================================================================
-# INSTALL: install.sh
-#
-# ACTIVATE VIRTUAL ENVIRONMENT: venv/bin/activate
-# ============================================================================
-#
-# RUN: python app_v1 v1/test.dat
-#
-# ============================================================================
-
-
 from v1.stream import Stream
 from v1 import functions
 
