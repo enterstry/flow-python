@@ -17,6 +17,6 @@ Install Python 3.6
    * `source venv/bin/activate` to activate the virtual environment.
 
 ### Start
-* Version 1: python app_v1 v1/test.dat
-* Version 2: python app_v2
-   
+* Version 1: python app_v1.py v1/test.dat
+* Version 2: python app_v2.py
+* Version 3: python app_v3.py
