@@ -1,0 +1,8 @@
+
+// Beispiel für einen Fluss.
+load.OUT -- show
+load.ERR -- error
+
+// Fehlerbehandlung
+show.OUT -- nil
+show.ERR -- nil
