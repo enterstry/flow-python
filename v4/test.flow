@@ -1,0 +1,12 @@
+
+// connect the error function to all err-channels.
+*.err -- error
+
+// start the flow by operation 'load'
+..run -- load
+
+// establish a connection
+load.out -- show
+
+// send result from show operation back to flow
+show.out -- .
